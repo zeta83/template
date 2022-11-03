@@ -1,0 +1,408 @@
+.desktop{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: #FFFFFF;
+}
+
+.contact-10{
+    position: absolute;
+    width: 1410px;
+    height: 715px;
+    background-color: #F1F1F1;
+    top: 2770px;
+}
+
+.for-cuestion{
+ /* For any questions pl */
+
+position: absolute;
+height: 70px;
+left: 22.79%;
+right: 22.79%;
+top: calc(50% - 70px/2 - 128.5px);
+
+/* Heading / H2 Header */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 200px;
+/* identical to box height, or 121% */
+text-align: center;
+letter-spacing: -1px;
+
+/* Colors / Heading */
+color: #1E0E62;
+
+
+}
+
+.email{
+    /* info@designmodo.com */
+
+    position: absolute;
+    height: 86px;
+    left: 24.5%;
+    right: 24.36%;
+    top: calc(50% - 86px/2 - 41.5px);
+
+    /* Heading / H2 Header */
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 200px;
+    /* or 121% */
+    text-align: center;
+    letter-spacing: -1px;
+
+    /* Action / Secondary */
+    color: #482BE7;
+
+
+}
+
+
+
+.socials{
+    position: absolute;
+    display: flex;
+    left: 44.14%;
+    right: 43.19%;
+    top: 68.95%;
+    bottom: 27.27%;
+}
+
+.ig{  
+    margin: 10px;
+    left: 6.24%;
+    right: 6.22%;
+    top: 6.22%;
+    bottom: 6.25%;
+}
+
+.linkedin{  
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+    left: 687px;
+    top: 494.47px;
+}
+
+.github{    
+    margin: 10px;
+    left: 1.56%;
+    right: 1.56%;
+    top: 1.56%;
+    bottom: 3.98%;
+
+}
+
+.showcase-1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 1400px;
+    bottom: 21.83%;
+    background: #FFFFFF;
+}
+
+.title2{
+    position: absolute;
+    left: 22.93%;
+    right: 22.93%;
+    top: 7.58%;
+    bottom: 74.17%;
+
+}
+
+.text{
+    height: 52px;
+    left: 26.57%;
+    right: 26.71%;
+    top: calc(50% - 52px/2 - 534px);
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #1E0E62;
+}
+
+.text1{
+    position: absolute;
+    /* width: 700; */
+    height: 70px;
+    left: 3.93%;
+   /*  right: 22.93%; */
+    top: 107px;
+    bottom: 82.11%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;   
+    text-align: center;    
+    color: rgba(21, 20, 57, 0.4);
+}
+
+.boton{
+    position: absolute;
+    left: 42.86%;
+    right: 42.86%;
+    top: 210px;
+    width: 160px;
+    height: 35px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #25DAC5;
+    border-radius: 100px;
+}
+
+.works{
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+    height: 778px;
+    left: 115px;
+    top: 420px;
+    justify-items: center;
+    grid-gap: 20px;
+}
+
+.descripcion-1{
+    left: 0%;
+    right: 0%;
+    top: 73.45%;
+    bottom: 17.51%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 32px;
+    color: #1E0E62;
+}
+
+.descripcion-2{
+    left: 0.27%;
+    right: 0.54%;
+    top: 85.31%;
+    bottom: 0%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgba(21, 20, 57, 0.6);
+    width: 340px;
+}
+    
+.feature-2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 600px;
+    bottom: 59.73%;
+}
+
+.rectangle1{
+    width: 1410px;
+    height: 699px;
+    left: 0px;
+    top: 0px;
+
+    background: #F1F1F1;
+}
+
+.mis-habilidades{
+    position: absolute;
+    height: 52px;
+    left: 38.79%;
+    right: 38.93%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #1E0E62;
+}
+
+.experiencias{
+    position: absolute;
+    left: 21.71%;
+    right: 21.64%;
+    top: 100px;
+    bottom: 63.43%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+.features{
+    position: absolute;
+    width: 973px;
+    height: 127px;
+    left: 219px;
+    top: 351px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    text-align: center;
+}
+
+.titulo{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.subtitulo{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4); 
+    mix-blend-mode: normal;
+}
+
+.navigation-2{
+    position: absolute;
+    height: 100px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 96.95%;
+    background: #FFFFFF;
+}
+
+
+.startup-framework{
+    position: absolute;
+    text-decoration:none;
+    height: 20px;
+    left: 111px;
+    right: 1084px;
+    width: 190px;
+    top: -6px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    letter-spacing: -0.292683px;
+    
+    color: #1E0E62;
+}
+
+a{
+    text-decoration:none;
+}
+
+.rectangle-3{
+    position: absolute;
+    left: 84.64%;
+    right: 8.21%;
+    top: 30%;
+    bottom: 30%;
+}
+
+.sign-up{
+    position: absolute;
+    background-color: #FFFFFF;
+    height: 30px;
+    width: 50px;
+    left: 84.64%;
+    border-color: #F1F1F1;
+    border: solid 1px;
+    border-radius: 10px;
+}
+.content-26{
+    position: absolute;
+    height: 520px;
+    width: 1340px;
+    left: 0%;
+    right: 0%;
+    top: 90px;
+    bottom: 81.07%;
+    background: #F1F1F1;
+}
+
+
+.title4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pon{
+    position: absolute;
+    width: 450px;
+    height: 153px;
+    left: 8.29%;
+    right: 65.36%;
+    top: 200px;
+    bottom: 17.12%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+.hola{
+    position: absolute;
+    width: 536px;
+    height: 169px;
+    left: 8.29%;
+    right: 61.57%;
+    top: 50px;
+    bottom: 46.54%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 60px;
+    color: #1E0E62;
+}
+
+
+.img{
+    position: absolute;
+    left: 51.07%;
+    right: 8.21%;
+    top: 10.19%;
+    bottom: 3.08%;
+    border-radius: 10px;
+}
+
+.image{
+    width: 500px;
+}
